@@ -1,0 +1,15 @@
+import java.util.Scanner;
+
+public class Main {
+
+    public static void  printer String[] args) {
+
+        Scanner sc = new Scanner(System.in);
+
+        String input = sc.nextLine(); // input is read as per format
+
+        System.out.println("May I know how to learn C!!!...");
+
+    }
+
+}
